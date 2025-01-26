@@ -1,4 +1,13 @@
 body {
   font-family: "Poppins", sans-serif;
+  margin: 50px 50px 0 50px;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+.creative {
+  color: midnightblue;
 }
 
